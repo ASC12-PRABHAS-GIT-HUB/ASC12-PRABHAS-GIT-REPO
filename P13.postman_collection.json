@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "597fba81-5c5a-427c-901a-2cf8bbf53d4e",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47487097",
+		"_collection_link": "https://prabhasgithub-2117857.postman.co/workspace/Prabhas's-Workspace~e95ed176-76dc-41fa-8715-361dc95e4697/collection/47487097-597fba81-5c5a-427c-901a-2cf8bbf53d4e?action=share&source=collection_link&creator=47487097"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "search",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
